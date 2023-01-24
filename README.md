@@ -1,6 +1,6 @@
 # Portfolio website
 
-This website showcases the projects I have contributed during my master degree of Information and Data Science at UC Berkeley. 
+This website showcases the projects I have contributed to during my master degree of Information and Data Science at UC Berkeley. 
 
 ## Project
 - Green Thumb AI
